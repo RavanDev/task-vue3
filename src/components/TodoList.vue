@@ -59,6 +59,9 @@ export default {
           task
         );
 
+        // this.tasksList.push({ ...response.data, isDisabled: false });
+        // console.log(response.data);
+
         this.tasksList.push({ ...task, isDisabled: false });
       } catch (error) {
         console.error(error);
