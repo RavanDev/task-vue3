@@ -2,7 +2,16 @@
   <div class="container">
     <div class="row row-cols-auto my-3 justify-content-center">
       <p
-        class="fs-1 rounded-3 bg-success fw-bold text-uppercase bg-opacity-75 p-2 m-0"
+        class="
+          fs-1
+          rounded-3
+          bg-success
+          fw-bold
+          text-uppercase
+          bg-opacity-75
+          p-2
+          m-0
+        "
       >
         ToDo Tasks Application
       </p>
